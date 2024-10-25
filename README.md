@@ -10,3 +10,7 @@ This project implements a simple classification model using the **Iris dataset**
 2. Ensure you have the necessary libraries installed:
    ```bash
    pip install scikit-learn
+
+3. Run the script:
+   ```bash
+   python iris_classifier.py
